@@ -20,7 +20,7 @@ The R scripts follow the sequential order below:
    Visualizes the spatial distribution of UV radiation and summarizes results from the TUV radiative transfer model.
 
 6. **`calculate the b through Monte Carlo.R`**  
-   Estimates the exposure-response coefficient (*b*) using Monte Carlo simulations.
+   Estimates the exposure-response coefficient (*Fre*) using Monte Carlo simulations.
 
 7. **`calculate Y in any special year.R`**  
    Calculates health-related outcome variables (*Y*) for specific target years.
